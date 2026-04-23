@@ -3,3 +3,8 @@ torch
 torchvision
 torchaudio
 ipykernel
+pandas 
+numpy
+matplotlib
+seaborn
+
