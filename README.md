@@ -105,10 +105,11 @@ Maximize validation accuracy while preventing overfitting.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/fashion-mnist-ann.git
+git clone https://github.com/debjit11/fashion-mnist-ann-classifier.git
 cd fashion-mnist-ann
 pip install -r requirements.txt
 ```
+
 
 ---
 
@@ -158,14 +159,6 @@ python optuna_tuning.py
 
 ---
 
-## 🙌 Author
 
-**Debjit Das**
-B.Tech CSE (AI & ML) Student
-Passionate about AI, ML, and building impactful projects 🚀
 
----
 
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub and share with others!
