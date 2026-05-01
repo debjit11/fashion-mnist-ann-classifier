@@ -148,10 +148,7 @@ python optuna_tuning.py
 * Practical use of Optuna
 * Model optimization and evaluation
 
----
 
-
----
 
 
 
