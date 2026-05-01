@@ -150,12 +150,6 @@ python optuna_tuning.py
 
 ---
 
-## 🔮 Future Improvements
-
-* Add CNN for better accuracy
-* Deploy model using Flask / FastAPI
-* Build web interface for predictions
-* Add real-time image classification
 
 ---
 
